@@ -16,7 +16,7 @@
 ✔️ Resume
 ✔️ Contact me
 
-Click here to visit the Portfolio: **[click here](https://spkothari0.github.io/Shreyas-Portfolio)**
+Click here to visit the Portfolio: **[click here](https://saisrunithsilvery.github.io/Srunith-Portfolio/)**
 
 # How to run 💻
 
