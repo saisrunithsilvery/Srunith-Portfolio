@@ -12,7 +12,10 @@ import {
 import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
+import * as portfolioData from "../../portfolio.js";
 
+
+console.log("Projects Header:", projectsHeader);
 class Projects extends Component {
   render() {
     const theme = this.props.theme;
@@ -25,7 +28,7 @@ class Projects extends Component {
               <div className="projects-heading-img-div">
                 {projectsHeader.avatar_image_path && (
                   <img
-                  src={require(`../../assests/images/${projectsHeader.avatar_image_path}`).default}
+                  src={require(`../../assests/images/${portfolioData.projectsHeader.avatar_image_path}`).default}
                   alt=""
                 />
                 )}
