@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Srunith-Portfolio/precache-manifest.1f7ebca04340a6deedcd86269b300728.js"
+  "/Srunith-Portfolio/precache-manifest.10e27aec0b42028c8dee27f22cd9146e.js"
 );
 
 self.addEventListener('message', (event) => {
