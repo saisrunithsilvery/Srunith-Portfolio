@@ -28,7 +28,7 @@ class Projects extends Component {
               <div className="projects-heading-img-div">
                 {projectsHeader.avatar_image_path && (
                   <img
-                  src={require(`../../assests/images/${portfolioData.projectsHeader.avatar_image_path}`).default}
+                  src={require(`../../assests/images/${portfolioData?.projectsHeader.avatar_image_path}`)?.default}
                   alt=""
                 />
                 )}
