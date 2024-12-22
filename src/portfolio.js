@@ -20,7 +20,6 @@ const seo = {
 const greeting = {
   title: "Sai Srunith",
   logo_name: "Sai Srunith",
-  nickname: "Sai Srunith",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -111,8 +110,7 @@ const skills = {
         },
       ],
     },
-    
-    
+
     {
       title: "Data Science & Machine Learning",
       fileName: "DesignImg",
@@ -326,7 +324,7 @@ const competitiveSites = {
         color: "#2EC866",
       },
       // profileLink: "https://www.hackerrank.com/spkothari0",
-    }
+    },
   ],
 };
 
@@ -334,14 +332,15 @@ const degrees = {
   degrees: [
     {
       title: "Sreenidhi Institute of Technology",
-      subtitle: "B.Tech in Computer Engineering",
+      subtitle: "B.Tech in Computer Science Engineering",
       logo_path: "snist-modified.png",
       alt_name: "SNIST",
       duration: "2018 - 2022",
       descriptions: [
-        "⚡ I have studied fundamental computer science subjects, including Data Structures, Algorithms, Database Management Systems, Operating Systems, Object-Oriented Design, and Artificial Intelligence.",
-        "⚡ Apart from this, I have done courses on Bash Scripting, Machine Learning and Backend Development.",
-        "⚡ I was in Robotics club working on image recognising using Matlab Software.",
+        "⚡ Developed a strong foundation in computer science through core courses such as Data Structures, Algorithms, Database Management Systems, Operating Systems, Object-Oriented Design, and Artificial Intelligence.",
+        "⚡ Completed specialized courses in Bash Scripting, Machine Learning, and Backend Development to expand technical expertise.",
+        "⚡ Collaborated with the Robotics Club on innovative projects, including image recognition systems using MATLAB, showcasing practical problem-solving and teamwork.",
+        "⚡ Actively engaged in extracurricular activities and technical fests, gaining hands-on experience and exposure to emerging technologies.",
       ],
       website_link: "https://sreenidhi.edu.in/",
     },
@@ -352,9 +351,12 @@ const degrees = {
       alt_name: "NEU",
       duration: "2024 - Exp 2025",
       descriptions: [
-        "⚡ I have taken varity of courses related to Software Development which correspond to Application Engineering and Model Development, Web Design and Development, Program Structure and Algorithms",
-        "⚡ I have participated in various hackathons, coding competitions and conferences held at MIT and at NEU.",
-        "⚡ During my time at university, I was also associated with multimedia department and clubs. As part of it, I have worked in some events, and participated in art and such extracurricular activities.",
+        "⚡ Enrolled in advanced courses focusing on Software Development, including Application Engineering and Model Development, Web Design and Development, and Program Structure and Algorithms.",
+        "⚡ Gained practical experience by participating in hackathons, coding competitions, and conferences, including prestigious events at MIT and Northeastern University.",
+        "⚡ Contributed to the university's multimedia department and clubs, working on high-profile events and enhancing creative problem-solving through art and other extracurricular activities.",
+        "⚡ Balancing academics with a part-time role as a System Administrator, where I manage system infrastructure, troubleshoot technical issues, and ensure optimal performance, further solidifying my hands-on IT expertise.",
+        "⚡ Configured AWS DMS to handle full data migration, ensuring a seamless transition to the new RDS environment. Leveraged CloudWatch for monitoring and troubleshooting during and after the migration, ensuring performance goals.",
+        "⚡ Designed and implemented automated backup solutions using AWS Backup, safeguarding data integrity and ensuring high availability for RDS instances.",
       ],
       website_link: "https://www.northeastern.edu/",
     },
@@ -364,7 +366,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Oracle Cloud Gen AI Proffessional Certified", 
+      title: "Oracle Cloud Gen AI Proffessional Certified",
       subtitle: "- Oracle",
       logo_path: "oracle certificate.png",
       certificate_link:
@@ -372,13 +374,12 @@ const certifications = {
       alt_name: "Developer Associate",
       color_code: "#8C151599",
     },
-    
+
     {
       title: "itil 4 Foundation Certified",
       subtitle: "-  PeopleCert",
       logo_path: "ITIL.png",
-      certificate_link:
-        "https://www.peoplecert.org/profile",
+      certificate_link: "https://www.peoplecert.org/profile",
       alt_name: "Problem Solving",
       color_code: "#0C9D5899",
     },
@@ -409,7 +410,6 @@ const certifications = {
       alt_name: "HPE Zerto Certified",
       color_code: "#A100FF",
     },
-
   ],
 };
 
@@ -418,7 +418,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work",
   description:
-    "As a  Hybrid Cloud Consultant with a strong foundation in Cloud Technologies of AWS, Azure, I have contributed significantly to multiple clients in feild of Storage and Backup Technologies of their Data Center  at Hewlett Packard Enterprise India. Over time, I have honed my skills in Cloud Technologies, Storage and Backup Technologies and I have used multiple Tools in maintaining the Backup Devies like Commvault, rubrik, HPE Data Protector  and other services. My expertise in Building automated backup solutions in python and Git Bash Scripting for Clients based on requirements ensuring regular and reliable data protection without manual intervention.",
+    "A seasoned IT professional with 2+ years of experience specializing in AWS Cloud services and DevOps. Proficient in managing diverse environments (DEV, QA, UAT, PRE-PROD) and experienced with AWS services like Lambda, EC2, S3, RDS, VPC, IAM, CloudWatch, and SNS. Adept at designing and implementing cloud-based solutions, ensuring high availability, scalability, and security. Skilled in CI/CD pipelines, automation, and monitoring tools, including Jenkins, Git, and Docker. Proficient in source code management using GIT/GitHub, automating builds with Maven, and implementing CI/CD pipelines via Jenkins. Skilled in containerization technologies like Docker and Kubernetes and infrastructure automation using tools like Terraform and OpenTofu. Strong knowledge of VPC architecture, Auto Scaling, Route 53, and multi-region failover strategies.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -427,72 +427,130 @@ const experience = {
       experiences: [
         [
           {
-            title: "Hybrid Cloud Consultant",
+            title: "Cloud Engineer",
             company: "Hewlett Packard Enterprise India",
             company_url: "https://www.hpe.com/in/en/home.html",
             logo_path: "HPimage.jpg",
             duration: "July 2022 - Dec 2023",
             location: "Bangalore, India",
-            description:
-              "As a Hybrid Cloud Consultant at Hewlett Packard Enterprise, my primary responsibilities involve managing and safeguarding the storage and backup solutions within the client's data center. This includes designing and implementing robust storage architectures to ensure data integrity and availability. I am also responsible for deploying multiple virtual servers, ensuring they are configured to meet the client's needs.",  
+            description: "",
             jobResponsibility: {
               title: "Key Responsibilities and Achievements",
               responsibilities: [
                 {
-                  name: "Storage Technology",
+                  name: "Cloud Technology",
                   data: [
-                    "Design and development of Storage according to Clients requirement this includes latency, Read writes per Sec, Budget, Expected Usage. HPE offers various types of Storage devices like Alletra (For large enterprises these are superfast Storage devices ) for small and Medium Enterprises HPE offers Devices like Primera and 3PAR which have their own pros and cons.", 
-                    "migration of on-premises storage systems to Hybrid cloud-based solutions, ensuring minimal downtime and seamless integration with existing infrastructure.valuated and selected appropriate cloud storage platforms (e.g., AWS S3, Azure Blob Storage) based on client needs, optimizing for performance, cost, and scalability.",
-                   "Designed and implemented data transfer strategies, including the use of tools such as AWS DataSync and Azure Migrate, to ensure secure and efficient data migration.",
-                   "Provided training and documentation to client teams to facilitate the transition to cloud storage and to ensure proper usage and management of the new systems.",
-                   "Achieved a 20% reduction in storage costs for clients by optimizing storage configurations and implementing data lifecycle management policies.",
-                   "Reduced 30% failure of Storage by regular monitoring and optimization of the Storage devices, ensuring high availability and reliability of data.",
-                   "Storage Provisioning,LUN Creation and Management, Latency, Snapshot of the specific LUN, Monitoring and Optimization, Incident Management was my regular day tasks in maintans",
-                   "Storage OS upgradtion, Firmware upgradtion, Patching of the Storage devices, Monitoring the Storage devices, Troubleshooting the Storage devices, Change Management, Problem Management, Capacity Management, Performance Management."
-            
-                  ]    },
-                {
-                  name: "Backup Technology",
-                  data: [
-                    "Developed and implemented automated backup solutions using Python and Git Bash scripting, reducing manual intervention and ensuring regular and reliable data protection.",
-                    "Configured and maintained backup devices, including Commvault, Rubrik, and HPE Data Protector, ensuring data integrity and availability.",
-                    "Performed regular backup testing and validation to ensure data recoverability and compliance with client requirements.",
-                    "Provided technical support and troubleshooting for backup-related issues, ensuring timely resolution and minimal impact on business operations."
-                  ]
+                    "Led the migration of infrastructure and applications from legacy on-prem data centers to AWS cloud, improving scalability, cost efficiency, and security.",
+                    "Hands-on experience with networking components in AWS, including ALBs, NLBs, Route 53, VPCs, configuring secure and efficient networking setups.",
+                    "Developed and maintained Infrastructure as Code (IaC) using Terraform and AWS CloudFormation, enabling consistent, scalable, and reproducible deployments across AWS environments.",
+                    "Automated infrastructure provisioning and deployment using Terraform, reducing setup time and ensuring uniformity across development, staging, and production environments.",
+                    "Implemented Docker for containerizing applications, leading to faster, more reliable application deployment cycles, and integrated containers into Kubernetes clusters for orchestration.",
+                  ],
                 },
                 {
-                  name: "SAN and NAS Technology",
+                  name: "Devops Technology",
                   data: [
-                  "Responsible for Monitoring and Configuring the Switches Connected to the Storange and Backup Devices.",
-                  "This Includes Zoning of Swithces Specific to the Storage Device Monitoring the Latency, Throughput, Packet Loss, and other parameters of the Switches.",
-                  ]
+                    "Set up CI/CD pipelines using Jenkins for automated testing, build, and deployment processes, improving software delivery efficiency and reducing manual interventions.",
+                    "Integrated GitHub with Jenkins, enabling seamless code version control and automated deployment workflows.",
+                    "Utilized microservices architecture written in Java to build scalable, modular applications, enabling seamless deployment across multiple environments.",
+                    "Provided technical support and troubleshooting for integration issues, ensuring timely resolution and minimal impact on business operations.",
+                    "Implemented CI/CD pipelines for Java-based microservices using Jenkins, Docker, and Kubernetes, automating build, test, and deployment processes for increased efficiency and reliability.",
+                    "Optimized deployment workflows for Java microservices, reducing release times and minimizing errors through automation and rigorous testing frameworks.",
+                  ],
                 },
-               
-              ]
+              ],
             },
             technologyUsed: {
               title: "Technology and Tools Used",
               technologies: [
                 {
-                  name: "Storage Devices",
+                  name: "Cloud Platforms",
                   data: [
-                    "Alletra", "Primera", "3PAR", "Nimble", "StoreOnce", "HPE Data Protector"
-                  ]
+                    "AWS",
+                    "Microsoft Azure",
+                    "Google Cloud Platform (GCP)",
+                  ],
                 },
                 {
-                  name: "Backup Tools",
-                  data: [
-                     "Commvault, HPE Data Protector, Rubrik, Veeam, NetBackup"
-                  ]
+                  name: "Infrastructure as Code (IaC)",
+                  data: ["Terraform", "AWS CloudFormation", "Ansible"],
                 },
                 {
-                  name: "Switches",
+                  name: "Containerization and Orchestration",
                   data: [
-                    " Brocade, Cisco, HPE Storage Switches",
-                  ]
-                }
-              ]
-            }
+                    "Docker",
+                    "Kubernetes (EKS)",
+                    "Helm",
+                    "Docker Compose",
+                  ],
+                },
+                {
+                  name: "CI/CD Tools",
+                  data: [
+                    "Jenkins",
+                    "GitHub Actions",
+                    "GitLab CI/CD",
+                    "CircleCI",
+                    "ArgoCD",
+                  ],
+                },
+                {
+                  name: "Version Control",
+                  data: ["Git", "GitHub", "GitLab", "Bitbucket"],
+                },
+                {
+                  name: "Monitoring and Logging",
+                  data: [
+                    "Prometheus",
+                    "Grafana",
+                    "ELK Stack (Elasticsearch, Logstash, Kibana)",
+                    "CloudWatch",
+                    "Splunk",
+                  ],
+                },
+                {
+                  name: "Networking and Load Balancing",
+                  data: ["ALBs", "NLBs", "Route 53", "VPCs", "CloudFront"],
+                },
+                {
+                  name: "Servers and Virtualization",
+                  data: ["EC2", "Fargate", "Lambda", "VMware", "Hyper-V"],
+                },
+                {
+                  name: "Backup and Storage",
+                  data: [
+                    "S3",
+                    "EBS",
+                    "EFS",
+                    "Amazon Glacier",
+                    "Azure Blob Storage",
+                  ],
+                },
+                {
+                  name: "Build Tools",
+                  data: ["Maven", "Gradle", "Apache Ant"],
+                },
+                {
+                  name: "Security Tools",
+                  data: [
+                    "AWS IAM",
+                    "AWS KMS",
+                    "HashiCorp Vault",
+                    "Okta",
+                    "Azure AD",
+                  ],
+                },
+                {
+                  name: "Performance and Optimization",
+                  data: [
+                    "Auto Scaling",
+                    "Load Balancing",
+                    "CloudFormation StackSets",
+                    "CodeBuild",
+                  ],
+                },
+              ],
+            },
           },
           {
             title: "Hybrid Cloud Engineer Intern",
@@ -508,51 +566,51 @@ const experience = {
               title: "Key Responsibilities and Achievements",
               responsibilities: [
                 {
-                  name: "Training on On-site Data Center Technologies(overview)",
+                  name:
+                    "Training on On-site Data Center Technologies(overview)",
                   data: [
-                     "Acquired foundational knowledge in VMware, SUSE Enterprise Linux, and Windows Server 2017 administration.",
-                     "Developed skills in server deployment and basic networking concepts.",
-                     "Assisted in data migration projects, ensuring smooth transition and minimal downtime.",
-                     "Contributed to various aspects of system maintenance and monitoring.",
-                  ]
+                    "Acquired foundational knowledge in VMware, SUSE Enterprise Linux, and Windows Server 2017 administration.",
+                    "Developed skills in server deployment and basic networking concepts.",
+                    "Assisted in data migration projects, ensuring smooth transition and minimal downtime.",
+                    "Contributed to various aspects of system maintenance and monitoring.",
+                  ],
                 },
                 {
                   name: "Internship Project",
                   data: [
-                     "Collabrated with Senior Solutions architects of the company for Configured AKS Hybrid, SQL Mi, Recourse Bridge, Microsoft Azure Backup Server on Azure Stack HCI enhancing the hybrid cloud infrastructure and ensuring robust data management and backup solutions for clients.",
-                     "Constructed AKS Hybrid clusters with GPU workload support on Azure Stack HCI 23H2, enabling advanced computational tasks and improving performance for machine learning and AI applications.",
-                     "Deployed Azure Stack HCI Standard & Stretched Clusters for 15 sites at various locations",
-                  ]
+                    "Collabrated with Senior Solutions architects of the company for Configured AKS Hybrid, SQL Mi, Recourse Bridge, Microsoft Azure Backup Server on Azure Stack HCI enhancing the hybrid cloud infrastructure and ensuring robust data management and backup solutions for clients.",
+                    "Constructed AKS Hybrid clusters with GPU workload support on Azure Stack HCI 23H2, enabling advanced computational tasks and improving performance for machine learning and AI applications.",
+                    "Deployed Azure Stack HCI Standard & Stretched Clusters for 15 sites at various locations",
+                  ],
                 },
-                
-                
-              ]
+              ],
             },
             technologyUsed: {
               title: "Technology and Tools Used",
               technologies: [
                 {
                   name: "Cloud",
-                  data: [
-                    "Azure", "Python Scripting",
-                  ]
+                  data: ["Azure", "Python Scripting"],
                 },
                 {
                   name: "Administration Tools",
                   data: [
-                    "VMware", "SUSE Enterprise Linux", "Windows Server 2017", "Azure Stack HCI, Service Now Administartion",
-                   
-                  ]
+                    "VMware",
+                    "SUSE Enterprise Linux",
+                    "Windows Server 2017",
+                    "Azure Stack HCI, Service Now Administartion",
+                  ],
                 },
                 {
                   name: "Networking",
                   data: [
-                    "Basic Networking Concepts", "Switches, Routers, Firewalls",
-                  ]
-                }
-              ]
-            }
-          }
+                    "Basic Networking Concepts",
+                    "Switches, Routers, Firewalls",
+                  ],
+                },
+              ],
+            },
+          },
         ],
       ],
     },
@@ -622,7 +680,8 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "WhatsApp Image 2024-06-11 at 19.52.04_e68048a3 - Copy.jpg",
+    profile_image_path:
+      "WhatsApp Image 2024-06-11 at 19.52.04_e68048a3 - Copy.jpg",
     description:
       "👋I'm easily reachable on various social platforms and typically respond within 2-3 working days.📧For swift communication, reach out via email or LinkedIn. 🎯Currently seeking internships or co-op roles, particularly in Software Development💻 and Cloud Computing☁️. Looking forward to connecting with you !!😊",
   },

@@ -14,6 +14,8 @@ class ExperienceAccordion extends Component {
             return (
               <Panel
                 className="accord-panel"
+                expanded={true}
+                onChange={() => {}}
                 title={
                   <>
                     <MdWork size="1.5em" />
@@ -48,7 +50,12 @@ class ExperienceAccordion extends Component {
               >
                 {section["experiences"].map((experience, index) => {
                   return (
-                    <ExperienceCard index={index} totalCards={section["experiences"].length} experience={experience} theme={theme} />
+                    <ExperienceCard
+                      index={index}
+                      totalCards={section["experiences"].length}
+                      experience={experience}
+                      theme={theme}
+                    />
                   );
                 })}
               </Panel>
