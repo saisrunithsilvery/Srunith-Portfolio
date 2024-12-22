@@ -80,13 +80,13 @@ const skills = {
             color: "#0089D6",
           },
         },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
+        // {
+        //   skillName: "Firebase",
+        //   fontAwesomeClassname: "simple-icons:firebase",
+        //   style: {
+        //     color: "#FFCA28",
+        //   },
+        // },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -113,7 +113,7 @@ const skills = {
 
     {
       title: "Data Science & Machine Learning",
-      fileName: "DesignImg",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Worked on data load, data migration and data validation using sql and pyspark",
         "⚡ Created a chatbot for analysis of resume using NLP and ML",
@@ -129,7 +129,7 @@ const skills = {
         },
         {
           skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          fontAwesomeClassname: "",
           style: {
             color: "#F24E1E",
           },
@@ -553,7 +553,7 @@ const experience = {
             },
           },
           {
-            title: "Hybrid Cloud Engineer Intern",
+            title: " Cloud Engineer Intern",
             company: "Hewlett Packard Enterprise India",
             company_url: "https://www.hpe.com/in/en/home.html",
             logo_path: "HPimage.jpg",
