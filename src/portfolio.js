@@ -120,43 +120,42 @@ const skills = {
         "⚡ used Postgres database to store the documents and access the share point link from the database for the respective document using python libraries. ",
       ],
       softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Artifical Intelligence",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
+        // {
+        //   skillName: "Adobe XD",
+        //   fontAwesomeClassname: "simple-icons:adobexd",
+        //   style: {
+        //     color: "#FF2BC2",
+        //   },
+        // },
+        // {
+        //   skillName: "Figma",
+        //   fontAwesomeClassname: "",
+        //   style: {
+        //     color: "#F24E1E",
+        //   },
+        // },
+        // {
+        //   skillName: "Artifical Intelligence",
+        //   fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //   style: {
+        //     color: "#FF7C00",
+        //   },
+        // },
+        // {
+        //   skillName: "Inkscape",
+        //   fontAwesomeClassname: "simple-icons:inkscape",
+        //   style: {
+        //     color: "#000000",
+        //   },
+        // },
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Back end Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building dynamic, responsive froen-end with React-Redux and Angular, including SPAs & MPAs with state management, routing, PWAs, and component-based architecture",
-        "⚡ Adept at building robust back-end services with Spring Boot and .NET Core, including RESTful APIs, microservices, and server-side logic",
-        "⚡ Delivered full stack projects from concept to deployment, integrating databases, cloud services, and third-party APIs",
+        "⚡ Adept at building robust back-end services with Spring Boot and node js, including RESTful APIs, microservices, and server-side logic",
+        "⚡ Delivered projects from concept to deployment, integrating databases, cloud services, and third-party APIs",
         "⚡ Experience with version control systems like Git, CI/CD pipelines and various development tools",
       ],
       softwareSkills: [
@@ -181,20 +180,7 @@ const skills = {
             color: "#339933",
           },
         },
-        {
-          skillName: "DotNet Core",
-          fontAwesomeClassname: "devicon:dotnetcore",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            color: "#512BD4",
-          },
-        },
+
         {
           skillName: "SPARQL",
           fontAwesomeClassname: "vscode-icons:file-type-sparql",
