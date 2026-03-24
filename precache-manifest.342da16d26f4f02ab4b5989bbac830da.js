@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b177e8d551e9b56386014248877f7b7",
+    "revision": "da2310af3fb82e48d4fab684e9f06353",
     "url": "/index.html"
   },
   {
-    "revision": "dd031514cdf48ab02a7a",
-    "url": "/static/css/main.805d4cac.chunk.css"
+    "revision": "86e659ba1a9c9ab12633",
+    "url": "/static/css/main.6dd9850d.chunk.css"
   },
   {
-    "revision": "41b839c79d324e438fdb",
-    "url": "/static/js/2.ae521db8.chunk.js"
+    "revision": "1c86230b7b6be258496e",
+    "url": "/static/js/2.02793da7.chunk.js"
   },
   {
-    "revision": "dd031514cdf48ab02a7a",
-    "url": "/static/js/main.c6483387.chunk.js"
+    "revision": "86e659ba1a9c9ab12633",
+    "url": "/static/js/main.d7885501.chunk.js"
   },
   {
     "revision": "04354a4ba39ce405b389",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "341ac3b6cf61cfd7285e77d6afe82849",
+    "url": "/static/media/Solix-Technologies-icon-Logo-Vector.341ac3b6.jpg"
   },
   {
     "revision": "091180305ea3e3b040e47f9a2ca186b5",

@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.805d4cac.chunk.css",
-    "main.js": "/static/js/main.c6483387.chunk.js",
-    "main.js.map": "/static/js/main.c6483387.chunk.js.map",
+    "main.css": "/static/css/main.6dd9850d.chunk.css",
+    "main.js": "/static/js/main.d7885501.chunk.js",
+    "main.js.map": "/static/js/main.d7885501.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf974ca9.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf974ca9.js.map",
-    "static/js/2.ae521db8.chunk.js": "/static/js/2.ae521db8.chunk.js",
-    "static/js/2.ae521db8.chunk.js.map": "/static/js/2.ae521db8.chunk.js.map",
+    "static/js/2.02793da7.chunk.js": "/static/js/2.02793da7.chunk.js",
+    "static/js/2.02793da7.chunk.js.map": "/static/js/2.02793da7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f3f48c8e9c21783ec158efb058ebf3f3.js": "/precache-manifest.f3f48c8e9c21783ec158efb058ebf3f3.js",
+    "precache-manifest.342da16d26f4f02ab4b5989bbac830da.js": "/precache-manifest.342da16d26f4f02ab4b5989bbac830da.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.805d4cac.chunk.css.map": "/static/css/main.805d4cac.chunk.css.map",
+    "static/css/main.6dd9850d.chunk.css.map": "/static/css/main.6dd9850d.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/HPE Quarter recognition Award.jpg": "/static/media/HPE Quarter recognition Award.5d7de2d2.jpg",
     "static/media/HPimage.jpg": "/static/media/HPimage.7fd8bf27.jpg",
     "static/media/ITIL.png": "/static/media/ITIL.92d044a2.png",
+    "static/media/Solix-Technologies-icon-Logo-Vector.jpg": "/static/media/Solix-Technologies-icon-Logo-Vector.341ac3b6.jpg",
     "static/media/WhatsApp Image 2024-06-11 at 19.52.04_e68048a3 - Copy.jpg": "/static/media/WhatsApp Image 2024-06-11 at 19.52.04_e68048a3 - Copy.09118030.jpg",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -54,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cf974ca9.js",
-    "static/js/2.ae521db8.chunk.js",
-    "static/css/main.805d4cac.chunk.css",
-    "static/js/main.c6483387.chunk.js"
+    "static/js/2.02793da7.chunk.js",
+    "static/css/main.6dd9850d.chunk.css",
+    "static/js/main.d7885501.chunk.js"
   ]
 }
