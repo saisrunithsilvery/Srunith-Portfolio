@@ -1,1 +1,88 @@
-{"data":[{"id":"R_kgDOL3ghQQ","name":"Food Delivery App","createdAt":"2024-05-05T20:30:48Z","url":"https://gustogo.onrender.com/","description":"The  web development project contains a complete Food Delivery App ingegrating with Google Maps API's that was made to demonstrate web development skills such as HTML, React and Redux, session management, PWA, CSS etc. ","iconifyClass":"logos:react","isFork":false,"languages":[{"name":"React","iconifyClass":"logos:react"},{"name":"Redux","iconifyClass":"skill-icons:redux"},{"name":"Node","iconifyClass":"logos:nodejs"},{"name":"Express","iconifyClass":"skill-icons:expressjs-light"},{"name":"MongoDB","iconifyClass":"devicon:mongodb-wordmark"},{"name":"Firebase","iconifyClass":"logos:firebase"},{"name":"Scss","iconifyClass":"vscode-icons:file-type-scss"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"TypeScript","iconifyClass":"logos:typescript-icon"}]},{"id":"R_kgDOL0MEog","name":"Resume Analyser Chat bot","createdAt":"2024-07-27T23:37:13Z","url":"","description":"The NLP Project to Analyze the resume according to the Job Description for Easy Hiring Process","isFork":true,"languages":[{"name":"Java Swing","iconifyClass":"uil:technology"},{"name":"MySQL","iconifyClass":"logos:mysql"},{"name":"Java","iconifyClass":"logos-java"}]},{"id":"R_kgDOHqt-CQ","name":"Collective Cause -App","createdAt":"2022-07-16T11:11:20Z","url":"https://github.com/orgs/info-6150-spring-2024/teams/team-collectivecause","description":"This is a website for support Fund Raising Service This project consists of several services, each with its own responsibility and function within the system. used to perform various operations on the text provided Campaign Services.","isFork":false,"languages":[{"name":"React","iconifyClass":"logos:react"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOHweYBw","name":"my-linkedin-clone","createdAt":"2022-08-02T17:32:46Z","url":"","description":"This is short UI replication of linkedIn application. This was used to simply show the UI skills using React. ","isFork":false,"languages":[{"name":"React","iconifyClass":"logos:react"},{"name":"Redux","iconifyClass":"skill-icons:redux"},{"name":"Node","iconifyClass":"logos:nodejs"},{"name":"Express","iconifyClass":"skill-icons:expressjs-light"},{"name":"Firebase","iconifyClass":"logos:firebase"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOHrzspQ","name":"news-app","createdAt":"2022-07-19T18:23:35Z","url":"https://gi","description":"Created a basic react App which will give top news of the selected category for Most of the countries. Used a prebuilt API for the news app. ","isFork":false,"languages":[{"name":"React","iconifyClass":"logos:react"},{"name":"Redux","iconifyClass":"skill-icons:redux"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOMBdLJA","name":"spring-boot-advanced-template","createdAt":"2024-05-28T02:02:47Z","url":"https://github.co","description":"Ready to Use Advanced Industry level Spring Boot Tempelate that contains all the advanced configuration setup like Swagger, API caching, Correlation, Token based Autharization and Authentication, Various Filters, AOT based logging, etc","isFork":false,"languages":[{"name":"SpringBoot","iconifyClass":"logos:spring-icon"},{"name":"AuthToken","iconifyClass":"oui:token-key"},{"name":"Redis","iconifyClass":"devicon:redis"},{"name":"MySQL","iconifyClass":"logos:mysql"},{"name":"Swagger","iconifyClass":"devicon:swagger"},{"name":"MailService","iconifyClass":"simple-icons:amazonsimpleemailservice"},{"name":"Java","iconifyClass":"logos-java"}]}]}
+{
+  "data": [
+    {
+      "id": "mediscan-001",
+      "name": "MedIScan",
+      "createdAt": "2025-01-15T00:00:00Z",
+      "url": "https://github.com/saisrunithsilvery/MedIScan",
+      "description": "An agentic AI healthcare pipeline for intelligent report understanding, combining OCR, LLM reasoning, and MCP-ready service interfaces for scalable clinical document workflows.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos:python" },
+        { "name": "TypeScript", "iconifyClass": "logos:typescript-icon" },
+        { "name": "OpenAI", "iconifyClass": "simple-icons:openai" },
+        { "name": "PostgreSQL", "iconifyClass": "logos:postgresql" }
+      ]
+    },
+    {
+      "id": "fdpp-002",
+      "name": "Financial-Data-Processing-Platform",
+      "createdAt": "2025-02-05T00:00:00Z",
+      "url": "https://github.com/saisrunithsilvery/Financial-Data-Processing-Platform",
+      "description": "A production-focused data platform for high-volume financial pipelines with AI-assisted validation, MCP integration points, and agentic automation for resilient ETL orchestration.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos:python" },
+        { "name": "Apache Spark", "iconifyClass": "logos:apache-spark" },
+        { "name": "PostgreSQL", "iconifyClass": "logos:postgresql" },
+        { "name": "Docker", "iconifyClass": "logos:docker-icon" }
+      ]
+    },
+    {
+      "id": "secdrug-003",
+      "name": "SEC-Drug-Asset-Extraction",
+      "createdAt": "2025-02-18T00:00:00Z",
+      "url": "https://github.com/saisrunithsilvery/SEC-Drug-Asset-Extraction",
+      "description": "An NLP and LLM extraction system for SEC filings that identifies drug assets, maps entity relationships, and powers agentic AI insights over regulated enterprise datasets.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos:python" },
+        { "name": "NLP", "iconifyClass": "fluent:chat-bubbles-question-24-filled" },
+        { "name": "Neo4j", "iconifyClass": "simple-icons:neo4j" },
+        { "name": "Pandas", "iconifyClass": "simple-icons:pandas" }
+      ]
+    },
+    {
+      "id": "ragnvidia-004",
+      "name": "RAG-Chatbot-on-nvidia-reports",
+      "createdAt": "2025-03-03T00:00:00Z",
+      "url": "https://github.com/saisrunithsilvery/RAG-Chatbot-on-nvidia-reports",
+      "description": "A Graph RAG chatbot over NVIDIA reports with multi-hop retrieval, LLM grounding, and agentic response workflows designed to improve factuality and decision support.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos:python" },
+        { "name": "LangChain", "iconifyClass": "simple-icons:langchain" },
+        { "name": "Neo4j", "iconifyClass": "simple-icons:neo4j" },
+        { "name": "Streamlit", "iconifyClass": "simple-icons:streamlit" }
+      ]
+    },
+    {
+      "id": "travelbuddy-005",
+      "name": "Travel_Buddy",
+      "createdAt": "2025-03-10T00:00:00Z",
+      "url": "https://github.com/saisrunithsilvery/Travel_Buddy",
+      "description": "An AI-powered travel assistant with agentic itinerary planning, context-aware recommendations, and MCP-compatible tools for extensible booking and preference workflows.",
+      "isFork": false,
+      "languages": [
+        { "name": "React", "iconifyClass": "logos:react" },
+        { "name": "Node.js", "iconifyClass": "logos:nodejs-icon" },
+        { "name": "TypeScript", "iconifyClass": "logos:typescript-icon" },
+        { "name": "MongoDB", "iconifyClass": "devicon:mongodb-wordmark" }
+      ]
+    },
+    {
+      "id": "crpto-006",
+      "name": "Crpto-Data-Building",
+      "createdAt": "2025-03-15T00:00:00Z",
+      "url": "https://github.com/saisrunithsilvery/Crpto-Data-Building",
+      "description": "A crypto analytics engineering project for building real-time data pipelines, anomaly detection models, and agentic AI monitors with robust observability and MCP-ready actions.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos:python" },
+        { "name": "Kafka", "iconifyClass": "logos:kafka-icon" },
+        { "name": "Grafana", "iconifyClass": "logos:grafana" },
+        { "name": "Prometheus", "iconifyClass": "logos:prometheus" }
+      ]
+    }
+  ]
+}
