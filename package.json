@@ -2,7 +2,7 @@
   "private": true,
   "name": "saisrunith-portfolio",
   "version": "0.1.0",
-  "homepage": "https://saisrunith.software/",
+  "homepage": "https://saisrunith.me/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
