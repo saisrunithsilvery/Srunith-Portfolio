@@ -413,6 +413,59 @@ const experience = {
       experiences: [
         [
           {
+            title: "AI Software Engineer",
+            company: "Solix Technologies",
+            company_url: "",
+            logo_path: "Solix-Technologies-icon-Logo-Vector.jpg",
+            duration: "May 2025 - Present",
+            location: "Lewisville, US",
+            description:
+              "Building scalable, reliable systems and LLM-powered apps end-to-end, improving AI agent reasoning quality, reducing query latency, and owning uptime and observability as first-class engineering concerns.",
+            jobResponsibility: {
+              title: "Key Responsibilities and Achievements",
+              responsibilities: [
+                {
+                  name: "AI Platform and Retrieval Engineering",
+                  data: [
+                    "Improved AI agent reasoning quality and reduced query latency by 45% by designing and building a Graph RAG pipeline using Neo4j and LangChain for multi-hop retrieval over structured and unstructured enterprise data.",
+                    "Shipped LLM-powered app features supporting 500K+ query executions/month by building federated Text-to-SQL APIs across PostgreSQL, S3 data lakes, and Hive with schema-aware prompt engineering and query validation guardrails.",
+                    "Cut manual SQL authoring time by 60% across 10TB+ data lakes by integrating OpenAI Whisper for real-time transcription and LLM-driven Text-to-SQL translation.",
+                  ],
+                },
+                {
+                  name: "Distributed Systems, Reliability, and Operations",
+                  data: [
+                    "Improved overall service throughput by 3x by implementing Model Context Protocol (MCP) and function-calling architectures for autonomous AI agents, orchestrating 8+ microservices.",
+                    "Owned uptime, observability, and performance across Kubernetes-based AI services on GCP, reducing inference latency by 35% with Prometheus and Grafana monitoring.",
+                  ],
+                },
+              ],
+            },
+            technologyUsed: {
+              title: "Technology and Tools Used",
+              technologies: [
+                {
+                  name: "Core Stack",
+                  data: ["Python", "TypeScript", "LangChain", "OpenAI"],
+                },
+                {
+                  name: "AI and Data",
+                  data: [
+                    "Graph RAG",
+                    "Neo4j",
+                    "MCP",
+                    "Text-to-SQL",
+                    "PostgreSQL",
+                  ],
+                },
+                {
+                  name: "Cloud and Observability",
+                  data: ["Kubernetes", "GCP", "Prometheus", "Grafana"],
+                },
+              ],
+            },
+          },
+          {
             title: "Cloud Engineer",
             company: "Hewlett Packard Enterprise India",
             company_url: "https://www.hpe.com/in/en/home.html",
